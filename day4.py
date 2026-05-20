@@ -3,7 +3,7 @@ def simple_interest(principal,rate,time):
     si = (principal * rate * time) / 100
     return si
 #Working Part
-time = int(input("Entter the time in years: "))
+time = int(input("Enter the time in years: "))
 rate = float(input("Enter the rate of interest: "))
 #User inputs
 accounts = [5000 , 12000 , 8500] 
