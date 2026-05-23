@@ -1,4 +1,4 @@
-#Mini Banking System:
+#Mini Banking System (Prototype):
 
 def simple_interest(principal, rate, time):
     si =  principal * rate *  time / 100
