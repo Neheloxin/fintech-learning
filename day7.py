@@ -15,8 +15,8 @@ for i in range(Num_acc):
     accounts.append(account)
 
 for account in accounts:
-     si = simple_interest(account["Principal"] , Rate , Time)
-     print(f"Details Of Account Holder : {account["Name"]} , Initial Amount : {account["Principal"]} , Simple Interest : {si} , Total Amount : {account["Principal"] + si}")   
+     si = simple_interest(round(account["Principal"], 2), round(account["Rate"], 2), round(account["Time"], 2))
+     print(f"Details Of Account Holder : {account['Name']} , Initial Amount : {account['Principal']} , Simple Interest : {si} , Total Amount : {account['Principal'] + si}")   
 
 
 
