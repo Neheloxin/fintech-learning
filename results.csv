@@ -1,0 +1,4 @@
+name,principal,rate,time,total_amount
+Alice,10000,5,2,11025.0
+bob,25000,7,3,30626.08
+Charlie,5000,3,1,5150.0
