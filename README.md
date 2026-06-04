@@ -13,6 +13,8 @@ My FinTech + AI learning journey — Python to FinTech AI Developer
 ## Phase 2 🔄 In Progress (Days 8-9)
 - Day 8: Pandas — read CSV, calculate CI for 3 accounts
 - Day 9: Added total_amount column, saved to results.csv
+- Day 10: Filtering rows by column value (high/low value accounts
+  
 
 ## Stack
 - Python 3.13
